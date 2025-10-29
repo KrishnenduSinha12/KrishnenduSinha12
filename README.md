@@ -33,9 +33,9 @@ I'm currently exploring molecular recognition and signaling mechanisms in biomol
 ### 🧩 Featured Projects
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [AChE Allosteric Study](#) | Investigating non-competitive inhibition by CPM | MD, AlloViz |
-| [Rac1–RhoGDI Phosphorylation Code](#) | Understanding allosteric effects of phosphorylation | MSM, MD |
-| [AlloPath](#) | Python tool for detecting allosteric hotspots | Python, ML |
+|[Rac1–RhoGDI Phosphorylation Code](#) | Understanding allosteric effects of phosphorylation | MSM, MD |
+|[AChE Allosteric Study](#) | Investigating non-competitive inhibition by CPM | MD, AlloViz |
+|[Leveraging Bidirectional Allostery](#) |  |  |
 
 ---
 
