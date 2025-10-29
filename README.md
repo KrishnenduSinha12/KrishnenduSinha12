@@ -40,3 +40,6 @@ I'm currently exploring molecular recognition and signaling mechanisms in biomol
 ---
 
 ⭐️ *"In every fluctuation lies the seed of function."*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnendusinha&show_icons=true&theme=tokyonight)
+
