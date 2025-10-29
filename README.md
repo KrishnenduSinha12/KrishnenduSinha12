@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishnendu Sinha  
 
-<!--
-**KrishnenduSinha12/KrishnenduSinha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Computational Biophysicist | Molecular Dynamics | Allostery | Machine Learning**  
 
-Here are some ideas to get you started:
+I'm currently exploring molecular recognition and signaling mechanisms in biomolecules using advanced simulation and kinetic modeling techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Research Interests
+- Protein dynamics and allosteric signaling  
+- Enhanced sampling techniques (Metadynamics, GaMD, REMD)  
+- Markov State Modeling (MSM)  
+- Drug discovery and inhibitor design  
+- Machine learning for biophysical data  
+
+---
+
+### 🧰 Tech Stack
+**Programming:** Python, C++, Bash, Fortran  
+**Simulation Tools:** AMBER, GROMACS, PLUMED, VMD, PyMOL  
+**Visualization & Analysis:** MDTraj, MDAnalysis, AlloViz, Matplotlib, Seaborn  
+
+---
+
+### 📫 Connect with Me
+- [Google Scholar](#)
+- [ResearchGate](#)
+- [LinkedIn](#)
+- [Email](mailto:yourname@example.com)
+
+---
+
+### 🧩 Featured Projects
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [AChE Allosteric Study](#) | Investigating non-competitive inhibition by CPM | MD, AlloViz |
+| [Rac1–RhoGDI Phosphorylation Code](#) | Understanding allosteric effects of phosphorylation | MSM, MD |
+| [AlloPath](#) | Python tool for detecting allosteric hotspots | Python, ML |
+
+---
+
+⭐️ *"In every fluctuation lies the seed of function."*
